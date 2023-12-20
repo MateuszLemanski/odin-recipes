@@ -1,0 +1,21 @@
+:root {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title {
+    text-align: center;
+}
+
+li.item {
+    text-align: center;
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+.item a {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+}
+
+
